@@ -23,4 +23,4 @@ The goal of the project is to create the front end of an Android application, wh
 We will commit between 20-40 hours per week.
 
 ### Ownership
-At the end of the trial, should we decide to part ways, Erik can decide to take the software with him or assign ownership to Flip Energy, Inc.
+At the end of the trial, should we decide to part ways, Erik can decide to take the software with him or assign ownership to Flip Energy, Inc., with no compensation. If we were to move forward together, Erik would assign ownership of the software to Flip Energy, Inc. in exchange for receiving shares in the company.
